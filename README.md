@@ -6,7 +6,7 @@
   
   
 
-  <h2 align="center">null kimdir? <img src="" width="30px"> </h2>
+  <h2 align="center"> <img src="" width="30px"> </h2>
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/482541644944506880?hideDiscrim=true)](https://discord.com/users/482541644944506880)
