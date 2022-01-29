@@ -9,4 +9,4 @@
  <a href="https://www.instagram.com/ktriacxx" target"blank_"><img src="https://img.shields.io/badge/Ktria%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </p>
   
-  
+ <img alt="GIF" src="https://media.discordapp.net/attachments/932349752425742396/932644671409225798/Xresiz_Banner_Pack_28.gif"/> 
