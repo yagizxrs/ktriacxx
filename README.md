@@ -11,5 +11,3 @@ height="40"/> </a> </p
 </p>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/482541644944506880)](https://discord.com/users/482541644944506880)
-  
-<img align="right" width="10%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktriacxx&theme=dark&show_icons=true&locale=en&layout=compact" alt="ktriacxx"  />&nbsp;<img align="right" width="10%" src="https://github-readme-stats.vercel.app/api?username=ktriacxx&theme=dark&show_icons=true&locale=en" alt="ktriacxx"  >
