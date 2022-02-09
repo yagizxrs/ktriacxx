@@ -12,4 +12,4 @@ height="40"/> </a> </p
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/482541644944506880)](https://discord.com/users/482541644944506880)
   
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktriacxx&theme=dark&show_icons=true&locale=en&layout=compact" alt="ktriacxx"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ktriacxx&theme=dark&show_icons=true&locale=en" alt="ktriacxx"  ></p>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktriacxx&theme=dark&show_icons=true&locale=en&layout=compact" alt="ktriacxx"  />&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ktriacxx&theme=dark&show_icons=true&locale=en" alt="ktriacxx"  >
