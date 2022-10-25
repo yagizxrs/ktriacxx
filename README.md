@@ -1,7 +1,7 @@
 
 <p align="center">
 <h1>Kendi halinde geliştirici.</h1>
-Sunucularınıza özel uygun fiyatlı kaliteli botlar için **ktriâ#1000**
+Sunucularınıza özel uygun fiyatlı kaliteli botlar için ktriâ#1000 bana yaz.
   <samp>
     <br><img src="https://komarev.com/ghpvc/?username=ktriacxx">
   </samp>
